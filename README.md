@@ -3,7 +3,7 @@
 # Project Description:
 
 It is an online application that can calculate the Fibonacci sequence
-The application consists of 5 docker components:<br/>
+The application consists of 5 docker components: <br/>
 1- Client: It is a Reactjs application for user interaction (see the code :Client/src) <br/>
 2- Server: API server to read the data from the DB (Redis or Postgree) auszulesen (see the code Server/index.js) <br/>
 3- Worker: Responsible for the Fibonacci sequence calculation (see the code: Worker/index.js) <br/>
