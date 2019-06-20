@@ -1,4 +1,4 @@
-# ks8practicalexample
+# k8spracticalexample
 
 # Project Description:
 
@@ -79,7 +79,7 @@ to expose the application we shoud run the folowing command
 3- Replicas: to define the number off the pods <br/>
 4- ingress-service: exposes HTTP and HTTPS routes from outside the cluster to services within the cluster. Traffic routing is controlled by rules defined on the Ingress resource. <br/>
 
-the yaml files for our Fibonacci sequence calculator project are in the ks8 folder. <br/>
+the yaml files for our Fibonacci sequence calculator project are in the k8s folder. <br/>
 for every component we have 2 yaml file 1 one to deploy the container and the second one to expose the application. <br/>
 
 - Client component: we have client-deployment.yaml and client-cluster-ip-service.yaml <br/>
