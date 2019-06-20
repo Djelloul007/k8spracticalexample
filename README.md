@@ -1,7 +1,7 @@
 # ks8practicalexample
 
 
-Project Description:
+# Project Description:
 It is an online application that can calculate the Fibonacci sequence
 The application consists of 5 docker components:
 1-	Client: It is a Reactjs application for user interaction  (see the code :Client/src)
