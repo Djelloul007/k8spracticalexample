@@ -99,7 +99,7 @@ We can do it in 2 steps <br/>
 2- kubectl apply -f .\ <br/>
 
 to access the application just run „minikube ip“ to gegt the cluster ip address
-& navigate tot he this cluster adress with your browser
+& navigate to  this cluster IP adress with your browser   <br/>
 you need to refresh the page after submit. <br/>
 
 Thanks and have fun by trying
