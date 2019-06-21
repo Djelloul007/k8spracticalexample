@@ -30,6 +30,7 @@ And here comes kubernetes into play, all the challenges mentioned above can be o
 Let's start with the basics: <br/>
 In order to start play with Kubernetes, the Minikube tool from Google is suitable. <br/>
 Minikube is a Kubernetescluster consisting of one node for the development. It is available on windows, mac and linux. https://kubernetes.io/docs/tasks/tools/install-minikube/ <br/>
+  <br/>
 The most important terms at kubernetes <br/>
 1- Pods: A grouping of more than one container <br/>
 
