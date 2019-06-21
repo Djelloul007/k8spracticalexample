@@ -92,12 +92,12 @@ for every component we have 2 yaml file 1 one to deploy the container and the se
 - to manage the Postgres database secret we need to run this command : „kubectl create secret generic pgpassword --from-literal PGPASSWORD=12345asdf“ <br/>
 
 let now deploy our Fibonacci sequence calculator project. <br/>
-We can do it in der steps <br/>
+We can do it in 2 steps <br/>
 
 1- „kubectl create secret generic pgpassword --from-literal PGPASSWORD=12345asdf“ <br/>
 2- kubectl apply -f .\ <br/>
 
-to access the application just run „minikube ip“ to egt the cluster ip address
+to access the application just run „minikube ip“ to gegt the cluster ip address
 & navigate tot he this cluster adress with your browser
 you need to refresh the page after submit. <br/>
 
