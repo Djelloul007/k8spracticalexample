@@ -1,4 +1,4 @@
-# k8spracticalexample
+# kubernetes practical example
 
 # Project Description:
 
