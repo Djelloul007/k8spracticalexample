@@ -2,7 +2,8 @@
 
 # Project Description:
 
-It is an online application that can calculate the Fibonacci sequence
+It is an online application that can calculate the Fibonacci sequence    <br/> 
+https://github.com/Djelloul007/k8spracticalexample/blob/master/Fibonaccisequence.PNG
 The application consists of 5 docker components: <br/>
 1- Client: It is a Reactjs application for user interaction (see the code :Client/src) <br/>
 2- Server: API server to read the data from the DB (Redis or Postgree) auszulesen (see the code Server/index.js) <br/>
